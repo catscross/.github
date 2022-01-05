@@ -2,7 +2,7 @@
 
 -------
 
-### 🌟 Welcome to our home page! 
+### ☘️ Welcome to our home page! 
 We are glad that you're here: here our top-3 public repositories.
 > [🚫 Denied](https://github.com)<br>
 > [🚫 Denied](https://github.com)<br>
